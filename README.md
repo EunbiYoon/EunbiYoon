@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there !👋
 
-- 🖥️ I'm programming in Python full stack development fields.
-- 👀 I’m looking to collaborate on Python microservice architecture.
-- 📫 How to reach me: yebcode@gmail.com
-- ⚡ Nice to meet you.
+- 📚 I'm currently a master's student in Computer Science at University of Massachusetts Amherst maintaing 4.0/4.0 GPA.
+- 🧑‍💼 I had 5+ years professional experience in full stack software development.
+- 🔥 Passionately Looking for 2026 Summer Internship !!!
+- 📫 How to reach me: eunbiyoon@umass.edu
+
 
