@@ -6,4 +6,4 @@
   - **GAMEBIT** (UMass Reasoning Lab)
 - 💼 5+ years in industry: Software Engineer at **LG Electronics North America R&D**, Data Engineer on **Samsung.com**
 - 🔥 Looking for full-time **ML / Applied AI / LLM** roles starting **January 2027**
-- 📫 eunbiyoon@umass.edu · [LinkedIn](링크) · [Website](링크)
+- 📫 [eunbiyoon@umass.edu](mailto:eunbiyoon@umass.edu) · [LinkedIn](https://www.linkedin.com/in/eunbiyoon0717) · [Website](https://eunbiyoon.com/)
